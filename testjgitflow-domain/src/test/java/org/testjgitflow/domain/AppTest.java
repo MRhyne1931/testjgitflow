@@ -1,4 +1,4 @@
-package com.premier.sourcingteam.testjgitflow;
+package org.testjgitflow.domain;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
